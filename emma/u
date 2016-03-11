@@ -1,0 +1,3 @@
+cd uwsgi
+./up
+cd -

@@ -1,0 +1,17 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "emma Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "/bin/bash $project_path/[Push].command && /bin/bash $project_path/[RestartUwsgi].command"
+		}
+	],
+	"folders":
+	[
+		{
+            "follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
