@@ -1,1 +1,1 @@
-The backend for the [O'Day app](https://github.com/nazariyg/O-Day). Written in Python 3.4 for Django 1.8. License: Proprietary.
+The backend for the [O'Day app](https://github.com/nazariyg/O-Day). Written in Python 3.4 for Django 1.8. Instantiated with [InstaDjango](https://github.com/nazariyg/InstaDjango) of mine. License: Proprietary.
